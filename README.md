@@ -1,6 +1,6 @@
 Educational projects
 
-#Unit 0:
+##Unit 0:
 >>В данном UNIT были изучены основы языка Python, выполнены тривиальные лабораторные работы.
 
 Unit 1.
